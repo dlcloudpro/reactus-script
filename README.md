@@ -98,4 +98,3 @@ chmod +x remnawave_install.sh
 3. For **Node** — paste your `docker-compose.yml`, finish with `Ctrl+D`
 4. For **Selfsteal** — enter your domain and port (default `9443`)
 5. Confirm container startup when prompted
-# reactus-script
