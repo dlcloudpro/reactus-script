@@ -16,10 +16,6 @@
 
 ## Русский
 
-### Скриншот
-
-![Скриншот установщика](prewiev.png)
-
 ### Что это
 
 Bash-скрипт для быстрой установки **Remnawave Node** и **Selfsteal (SNI)** на сервер. Поддерживает два языка, красивый интерфейс с цветным выводом.
@@ -64,9 +60,6 @@ chmod +x remnawave_install.sh
 
 ## English
 
-### Screenshot
-
-![Installer screenshot](screenshot.png)
 
 ### What is this
 
@@ -105,5 +98,6 @@ chmod +x remnawave_install.sh
 3. For **Node** — paste your `docker-compose.yml`, finish with `Ctrl+D`
 4. For **Selfsteal** — enter your domain and port (default `9443`)
 5. Confirm container startup when prompted
+# reactus-script
 # reactus-script
 # reactus-script
