@@ -99,5 +99,3 @@ chmod +x remnawave_install.sh
 4. For **Selfsteal** — enter your domain and port (default `9443`)
 5. Confirm container startup when prompted
 # reactus-script
-# reactus-script
-# reactus-script
